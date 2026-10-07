@@ -1,0 +1,3 @@
+# Kokoro-82M: Apache-2.0 open-weight TTS that runs locally on CPU (also needs espeak-ng)
+kokoro>=0.9
+soundfile>=0.12
